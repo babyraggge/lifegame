@@ -1,0 +1,10 @@
+D:\education\c sharp\LifeGame\LifeGame\bin\Debug\LifeGame.exe.config
+D:\education\c sharp\LifeGame\LifeGame\bin\Debug\LifeGame.exe
+D:\education\c sharp\LifeGame\LifeGame\bin\Debug\LifeGame.pdb
+D:\education\c sharp\LifeGame\LifeGame\obj\Debug\LifeGame.csprojAssemblyReference.cache
+D:\education\c sharp\LifeGame\LifeGame\obj\Debug\LifeGame.Form1.resources
+D:\education\c sharp\LifeGame\LifeGame\obj\Debug\LifeGame.Properties.Resources.resources
+D:\education\c sharp\LifeGame\LifeGame\obj\Debug\LifeGame.csproj.GenerateResource.cache
+D:\education\c sharp\LifeGame\LifeGame\obj\Debug\LifeGame.csproj.CoreCompileInputs.cache
+D:\education\c sharp\LifeGame\LifeGame\obj\Debug\LifeGame.exe
+D:\education\c sharp\LifeGame\LifeGame\obj\Debug\LifeGame.pdb
